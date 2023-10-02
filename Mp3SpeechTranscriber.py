@@ -1,5 +1,5 @@
 import os
-import whisper
+import whisper  # pip install openai-whisper # also requires ffmpeg. In Ubuntu: sudo apt  install ffmpeg
 import sys
 
 class Mp3SpeechTranscriber:
