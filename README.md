@@ -36,9 +36,9 @@ sudo apt install espeak-ng
 sudo apt install espeak-ng-data
 ```
 
-## Usage
+## Installation
 
-1. Clone the repository to your local machine:
+Clone the repository to your local machine and install the required packages:
 
    ```bash
    git clone https://github.com/eliujl/tts_from_youtube
