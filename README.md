@@ -78,3 +78,6 @@ python tts_from_youtube_main.py https://youtu.be/TCH_1BHY58I ./temp_audio
 
 If no YouTube URL is given when starting the Python script, it will ask you to enter a URL and specify an output directory (press Enter to use the default temporary folder).
 
+## Limitations
+- Whisper transcription can be slow (especially if the audio is very long), and sometimes can have puncturation problems.
+- The open-source TTS engines may still sound a bit mechanical.
